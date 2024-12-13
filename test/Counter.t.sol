@@ -22,3 +22,8 @@ contract CounterTest is Test {
         assertEq(counter.number(), x);
     }
 }
+== Return ==
+0: contract Lottery 0x3a618f6a7362E03bA17c918242c273b666F50DC0
+
+== Logs ==
+  Lottery contract deployed to: 0x3a618f6a7362E03bA17c918242c273b666F50DC0
